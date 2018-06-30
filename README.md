@@ -110,7 +110,8 @@ telnet localhost 3000
 - [Black Hat Python](http://www.nostarch.com/blackhatpython)
 - [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 - [Shellcoders Handbook](www.amazon.com/The-Shellcoders-Handbook-Discovering-Exploiting/dp/047008023X)
-- [Practice Malware Analysis](https://www.nostarch.com/malware)
+- [Practice Malware Analysis](https://www.nostarch.com/malware)  
+- [How to Hack Like a Legend](https://amzn.to/2uWh1Up) - A hacker’s tale breaking into a secretive offshore company   
 
 #### Fun
 
